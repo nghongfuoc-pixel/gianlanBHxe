@@ -1,0 +1,4 @@
+gradio
+pycaret
+pandas
+huggingface_hub
