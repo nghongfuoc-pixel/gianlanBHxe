@@ -1,4 +1,4 @@
-gradio
+streamlit
 pycaret
 pandas
 huggingface_hub
